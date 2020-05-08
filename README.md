@@ -6,8 +6,9 @@ This static website is used for promoting the non-profit kitchen that is part of
 
 ![Screenshot #1](https://github.com/vguhesan/murugantemple-kitchen/blob/master/static/img/screenshots/s1-sml.jpg)
 
+---
 
-![Screenshot #1](https://github.com/vguhesan/murugantemple-kitchen/blob/master/static/img/screenshots/s2-sml.jpg)
+![Screenshot #2](https://github.com/vguhesan/murugantemple-kitchen/blob/master/static/img/screenshots/s2-sml.jpg)
 
 Screenshot showing the same display on a TV screen at the temple premises to allow visitors to order from the same menu as available online on the web.
 
