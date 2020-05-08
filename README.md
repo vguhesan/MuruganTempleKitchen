@@ -1,5 +1,7 @@
 This repository contains source-code for https://kitchen.murugantemple.org/
 
+This static website is used for promoting the non-profit kitchen that is part of the temple. This site displays the latest available items on the menu. The availability of the items can be toggled on and off on the back-end. This allows the team in the kitchen to dynamically control inventory based on availability. People visiting the temple can call-in their carry-out order ahead of time, and pick it up on the way out.
+
 ### Screenshots
 
 ![Screenshot #1](https://github.com/vguhesan/murugantemple-kitchen/blob/master/static/img/screenshots/s1-sml.jpg)
