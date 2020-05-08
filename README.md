@@ -2,7 +2,7 @@ This repository contains source-code for https://kitchen.murugantemple.org/
 
 ### Screenshots
 
-![Screenshot #1](https://github.com/vguhesan/murugantemple-kitchen//blob/master/static/img/screenshots/s1-sml.jpg)
+![Screenshot #1](https://github.com/vguhesan/murugantemple-kitchen/blob/master/static/img/screenshots/s1-sml.jpg)
 
 ---
 
