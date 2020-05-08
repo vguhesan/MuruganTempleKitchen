@@ -1,5 +1,8 @@
 This repository contains source-code for https://kitchen.murugantemple.org/
 
+### Screenshots
+![Screenshot #1](https://github.com/vguhesan/murugantemple-kitchen//blob/master/static/img/screenshots/s1-sml.png)
+
 ---
 
 ## Getting Started
@@ -26,7 +29,7 @@ http://localhost:8000/
 
 ## Make your changes
 
-At this point, you can make all the necessary changes locally. Once you are satisfied with thge local changes, it's time to upload them to the **live** site. 
+At this point, you can make all the necessary changes locally. Once you are satisfied with the local changes, it's time to upload them to the **live** site. 
 
 1. You can SFTP the contents of the root directory and all all of it's sub-directories to the target folder.
 2. Verify and validate your changes.
