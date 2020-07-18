@@ -38,9 +38,9 @@ http://localhost:8000/
 
 ## Make your changes
 
-At this point, you can make all the necessary changes locally. Once you are satisfied with the local changes, it's time to upload them to the **live** site. 
+At this point, you can make all the necessary changes locally. Once you are satisfied with the local changes, it's time to upload them to the **live-blu** site. 
 
-1. You can SFTP the contents of the root directory and all all of it's sub-directories to the target folder.
+1. You can SFTP the contents of the root directory  and all all of it's sub-directories to the target folder.
 2. Verify and validate your changes.
 
 More instructions coming soon.
